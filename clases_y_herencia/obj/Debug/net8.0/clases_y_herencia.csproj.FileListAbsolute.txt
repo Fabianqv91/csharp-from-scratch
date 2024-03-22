@@ -1,0 +1,15 @@
+C:\ProyectosItm\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.exe
+C:\ProyectosItm\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.deps.json
+C:\ProyectosItm\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.runtimeconfig.json
+C:\ProyectosItm\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.dll
+C:\ProyectosItm\new_copy\clases_y_herencia\bin\Debug\net8.0\clases_y_herencia.pdb
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.AssemblyInfoInputs.cache
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.AssemblyInfo.cs
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.csproj.CoreCompileInputs.cache
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.sourcelink.json
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.dll
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\refint\clases_y_herencia.dll
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.pdb
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\clases_y_herencia.genruntimeconfig.cache
+C:\ProyectosItm\new_copy\clases_y_herencia\obj\Debug\net8.0\ref\clases_y_herencia.dll
